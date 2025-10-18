@@ -1,0 +1,16 @@
+.messageInput {
+  display: flex;
+  gap: 12px;
+  padding: 16px;
+  background-color: white;
+  border-top: 1px solid #e1e5e9;
+}
+
+.inputContainer {
+  flex: 1;
+}
+
+.sendButton {
+  white-space: nowrap;
+  min-width: 80px;
+}
