@@ -1,6 +1,8 @@
 Konuşarak Öğren Chat App Frontend
 https://frontend-git-master-emirs-projects-176678a2.vercel.app/register  ==> Vercel üzerinden kaldırıldı
 Her component kendi stil dosyasıyle birlikte tek bir klasör içerisinde bulunuyor. Stil için AI'dan yardım alındı.
+
+Yeni mesajları görmek için Scrollbarı kaydırmak gerekiyor.
 Button ve Input en basit bileşenler
 
 MessageInput ve MessageList Chat ekranı için ayarlandı.
