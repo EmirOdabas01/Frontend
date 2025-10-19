@@ -22,11 +22,13 @@ Başarılıysa bilgiyi storage’a kaydedip chat sayfasına yönlendirir.
 History
 API’den kullanıcının mesajlarını çeker.
 
-Toplam mesaj ve duygu istatistiklerini gösterir.
+Kullanıcı için atılan toplam mesajları gösterir.
 “Return Chat” ve “Log Out” butonlarıyla yönlendirme yapar.
 
-api: Kullanıcı kaydı, mesajları getirme ve oluşturma işlemlerini yapar.
+api
+Kullanıcı kaydı, mesajları getirme ve oluşturma işlemlerini yapar.
 storage: Kullanıcı ID ve nickname bilgisini localStorage’da saklar veya siler.
+
 https://chatapiapi-g8cacedmf6b0gsdw.spaincentral-01.azurewebsites.net/api/ ==> adresine istek atar
 
 In the project directory, you can run:
