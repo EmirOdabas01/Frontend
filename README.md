@@ -25,7 +25,7 @@ API’den kullanıcının mesajlarını çeker.
 Kullanıcı için atılan toplam mesajları gösterir.
 “Return Chat” ve “Log Out” butonlarıyla yönlendirme yapar.
 
-api
+api:
 Kullanıcı kaydı, mesajları getirme ve oluşturma işlemlerini yapar.
 storage: Kullanıcı ID ve nickname bilgisini localStorage’da saklar veya siler.
 
