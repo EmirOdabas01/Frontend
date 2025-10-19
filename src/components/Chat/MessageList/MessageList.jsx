@@ -1,4 +1,4 @@
-// src/components/Chat/MessageList/MessageList.jsx
+ 
 import React from "react";
 import styles from "./MessageList.module.css";
 
